@@ -58,7 +58,7 @@ Obs.: Caso ainda não possua um Resource Group, basta clicar em "Create New" e c
 
 ![image](https://github.com/ellizsillva/LabDioIA900---Vision/assets/155840444/f7b6dfe1-fd73-425f-9645-a69761aa7a7c)
 
-![image](https://github.com/ellizsillva/LabDioIA900---Vision/assets/155840444/d8e0aa94-c746-4413-808f-1dca5014592b)
+![image](https://github.com/ellizsillva/LabDioIA900---Vision/assets/155840444/9763a67f-363e-435d-92ca-ccfce6c3b667)
 
 ![image](https://github.com/ellizsillva/LabDioIA900---Vision/assets/155840444/71b1a02c-ffbe-4d35-9a11-013d6ef4231e)
 
