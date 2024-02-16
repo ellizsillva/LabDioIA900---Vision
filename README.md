@@ -1,4 +1,4 @@
-# Detecção de imagens e faces no Azure Vision Studio
+# Detecção de imagens e rostos no Azure Vision Studio
 
 ## Objetivo 🎯
 
