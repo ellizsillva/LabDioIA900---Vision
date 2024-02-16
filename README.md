@@ -40,6 +40,10 @@ Obs.: Caso ainda não possua um Resource Group, basta clicar em "Create New" e c
 
 ![image](https://github.com/ellizsillva/LabDioIA900---Vision/assets/155840444/1b54d1b2-115f-412a-86ca-e9a5a8078590)
 
+### Exemplo de um resultado obtido
+
+![image](https://github.com/ellizsillva/LabDioIA900---Vision/assets/155840444/79e2dbb9-d7a7-4ee7-ada9-52ca37669df1)
+
 ## Análise documentos ou textos em imagens
 
 9- Selecione a opção "Optical character recognition" e clique no serviço "extract text from imagens"
@@ -50,6 +54,15 @@ Obs.: Caso ainda não possua um Resource Group, basta clicar em "Create New" e c
 
 ![image](https://github.com/ellizsillva/LabDioIA900---Vision/assets/155840444/11ed7e6f-c150-4a02-b3a6-eca8290c4e75)
 
+### Exemplos de resultados obtidos
+
+![image](https://github.com/ellizsillva/LabDioIA900---Vision/assets/155840444/f7b6dfe1-fd73-425f-9645-a69761aa7a7c)
+
+![image](https://github.com/ellizsillva/LabDioIA900---Vision/assets/155840444/d8e0aa94-c746-4413-808f-1dca5014592b)
+
+![image](https://github.com/ellizsillva/LabDioIA900---Vision/assets/155840444/71b1a02c-ffbe-4d35-9a11-013d6ef4231e)
+
+
 ## Análise imagens
 
 11- Selecione a opção "Image analysis" e clique no serviço "add capitions to images"
@@ -59,5 +72,10 @@ Obs.: Caso ainda não possua um Resource Group, basta clicar em "Create New" e c
 12- Marque a opção Try it out, carregue a iamgem para validar os atributos detectados ou selecione as imagens já disponíveis
 
 ![image](https://github.com/ellizsillva/LabDioIA900---Vision/assets/155840444/f689cae6-88d1-4231-ade0-1cc5570b32c3)
+
+### Exemplo de um resultado obtido
+
+![image](https://github.com/ellizsillva/LabDioIA900---Vision/assets/155840444/979c6f75-db9d-4373-b7a5-09188ce00555)
+
 
 
