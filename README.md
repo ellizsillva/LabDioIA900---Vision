@@ -77,5 +77,13 @@ Obs.: Caso ainda não possua um Resource Group, basta clicar em "Create New" e c
 
 ![image](https://github.com/ellizsillva/LabDioIA900---Vision/assets/155840444/979c6f75-db9d-4373-b7a5-09188ce00555)
 
+# Doc de Referência - Lab Microsoft
+
+Rosto: https://microsoftlearning.github.io/mslearn-ai-fundamentals/Instructions/Labs/04-face.html
+
+Texto: https://microsoftlearning.github.io/mslearn-ai-fundamentals/Instructions/Labs/05-ocr.html
+
+Análise: https://microsoftlearning.github.io/mslearn-ai-fundamentals/Instructions/Labs/03-image-analysis.html
+
 
 
